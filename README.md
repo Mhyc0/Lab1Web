@@ -2,17 +2,24 @@
 Tugas HTML
 Langkah-Langkah:
 buat folder dengan contoh nama LAB 1 TAG DASAR 
+
 <img width="311" height="76" alt="image" src="https://github.com/user-attachments/assets/936279ac-b91c-4850-8639-69716abf2f35" />
 
+
 lalu di dalamnya buat text file dan RENAME menjadi LAB 1 TAG DASAR.HTML
+
 <img width="812" height="110" alt="image" src="https://github.com/user-attachments/assets/493d2102-3fa7-4b9a-bcf1-f5fc5a1a0583" />
 
 Tambahkan Code dasar HTML
+
 <img width="531" height="304" alt="image" src="https://github.com/user-attachments/assets/0f572ee8-ba52-4c24-9b76-0f56b63052bd" />
+
 <img width="1911" height="1062" alt="image" src="https://github.com/user-attachments/assets/dc4628ae-cddf-4d8d-b103-58e15f34bb23" />
 
 MEMBUAT PARAGRAF:
+
 <img width="953" height="528" alt="image" src="https://github.com/user-attachments/assets/91aecb40-c210-419e-a4b2-09a3775929a5" />
+
 <img width="1694" height="366" alt="image" src="https://github.com/user-attachments/assets/3b347f15-5232-473e-ad55-76c562fc0f5b" />
 
 MENAMBAHKAN GAMBAR:
