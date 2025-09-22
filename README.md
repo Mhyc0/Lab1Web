@@ -55,21 +55,4 @@ html dasar dan dengan isi seperti  halaman pertama sebagai contoh
 
 
 
-PENJELASAN DARI STRUKTUR DASAR HTML:
-DOCTYPE html→ penanda bahwa ini HTML5.
-
-html ... /html → pembungkus utama dokumen.
-
-head → berisi info web (judul, link CSS, meta, dll).
-
-body → isi utama yang ditampilkan di browser.
-
-h1 sampai <h6> → heading/judul (besar → kecil).
-
-p → paragraf.
-
-a → link/tautan.
-
-img → menampilkan gambar.
-
-br → ganti baris.
+<img width="630" height="292" alt="image" src="https://github.com/user-attachments/assets/b154dbea-112c-4165-a09f-7b265e9a4a79" />
