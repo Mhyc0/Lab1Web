@@ -33,20 +33,15 @@ simpan file gambar tersebut satu folder dengan file dokumen html.
 <img width="787" height="114" alt="image" src="https://github.com/user-attachments/assets/1625c00f-aed4-4996-86e4-a9ea5f18639a" />
 
 
-<!-- untuk menambahkan gambar pada dokumen -->
-<img src="Logo_UPB.png" width="200" title="Logo Univeritas Pelita Bangsa">
+<img width="981" height="613" alt="image" src="https://github.com/user-attachments/assets/b193eea0-981b-42d5-bacb-b1839a9ab475" />
 
-<img width="1917" height="1079" alt="Screenshot 2025-09-22 140539" src="https://github.com/user-attachments/assets/c713640c-06da-4fbf-9f2e-680544dd411b" />
 
 
 
 Menambahkan Hyperlink:
-<nav>
-<a href="lab1_tag_dasar.html">Dasar HTML</a>
-<a href="lab1_halaman2.html">Halaman 2</a>
-<a href="http://www.google.com">Halaman Web Eksternal Google</a>
-</nav>
-<hr>
+
+<img width="1043" height="854" alt="image" src="https://github.com/user-attachments/assets/6fd1354c-8606-458a-a2d9-9760d5b32efd" />
+
 
 
 <img width="1919" height="1071" alt="image" src="https://github.com/user-attachments/assets/af74630a-bf3b-4048-800d-c74e4627d032" />
