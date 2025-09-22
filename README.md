@@ -3,6 +3,7 @@ Tugas HTML
 Langkah-Langkah:
 buat folder dengan contoh nama LAB 1 TAG DASAR 
 <img width="311" height="76" alt="image" src="https://github.com/user-attachments/assets/936279ac-b91c-4850-8639-69716abf2f35" />
+
 lalu di dalamnya buat text file dan RENAME menjadi LAB 1 TAG DASAR.HTML
 <img width="812" height="110" alt="image" src="https://github.com/user-attachments/assets/493d2102-3fa7-4b9a-bcf1-f5fc5a1a0583" />
 
